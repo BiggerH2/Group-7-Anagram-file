@@ -45,6 +45,4 @@ Jean Gathoni.
 
 
 
----
 
-You can create a `README.md` file in your project directory and paste the content above. Customize it further based on your project's specific details, such as installation instructions, examples, or additional information about the functions or modules included in your project.
